@@ -8,8 +8,7 @@
     
     <h1>Film Folk</h1>
     <h2>Festival Diary</h2>
-    <p>Here are some of the film festivals we will be attending this year.</p>
-    <p>Please <a href="filmfolk@example.org">contact us</a> if you would like more information.</p>
+    <p>Here are some of the film festivals we will be attending this year.<br/>Please <a href="filmfolk@example.org">contact us</a> if you would like more information.</p>
     
     <h3>January</h3>
     <a href="www.sundance.org">Sundance Film Festival</a>
