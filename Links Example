@@ -4,44 +4,48 @@
   </head>
   
   <body>
-    <a name="top"></a>
-    
-    <h1>Film Folk</h1>
+    <h1 id="top">Film Folk</h1>
     <h2>Festival Diary</h2>
-    <p>Here are some of the film festivals we will be attending this year.<br/>Please <a href="filmfolk@example.org">contact us</a> if you would like more information.</p>
+    <p>Here are some of the film festivals we will be attending this year.<br/>Please <a href="mailto:filmfolk@example.org">contact us</a> if you would like more information.</p>
     
     <h3>January</h3>
-    <a href="www.sundance.org">Sundance Film Festival</a>
-    <p>Park City, Utah, USA</p>
-    <p>20 - 30 January 2011</p>
+    <p><a href="www.sundance.org">
+    Sundance Film Festival</a><br/>
+    Park City, Utah, USA<br/>
+    20 - 30 January 2011</p>
     
     <h3>February</h3>
-    <a href="www.tropfest.org.au">Tropfest</a>
-    <p>Sydney, Australia</p>
-    <p>20 February 2011</p>
+    <p><a href="www.tropfest.org.au">
+    Tropfest</a><br/>
+    Sydney, Australia<br/>
+    20 February 2011</p>
     
     <h3>March</h3>
-    <a href="www.sxsw.com">South by Southwest</a>
-    <p>Austin, Texas, USA</p>
-    <p>11 - 20 March 2011</p>
+    <p><a href="www.sxsw.com">
+    South by Southwest</a><br/>
+    Austin, Texas, USA<br/>
+    11 - 20 March 2011</p>
     
     <h3>April</h3>
-    <a href="www.liff.org">London Independent Film Festival</a>
-    <p>London, UK</p>
-    <p>15-24 April 2011</p>
+    <p><a href="www.liff.org">
+    London Independent Film Festival</a><br/>
+    London, UK<br/>
+    15-24 April 2011</p>
     
     <h3>May</h3>
-    <a href="www.festival-cannes.com/fr/">Cannes International Film Festival</a>
-    <p>Cannes, France</p>
-    <p>11 - 22 May 2011</p>
+    <p><a href="www.festival-cannes.com/fr/">
+    Cannes International Film Festival</a><br/>
+    Cannes, France<br/>
+    11 - 22 May 2011</p>
     
     <h3>June</h3>
-    <a href="www.sff.org.au">Sydney Film Festival</a>
-    <p>Sydney, Australia</p>
-    <p>8 - 19 June 2011</p>
+    <p><a href="www.sff.org.au">
+    Sydney Film Festival</a><br/>
+    Sydney, Australia<br/>
+    8 - 19 June 2011</p>
     
-    <a href="www.htmlandcssbook.com/code-samples/chapter-04/about.html">About Film Folk</a>
+    <p><a href="about.html">About Film Folk</a></p>
     
-    <a href="#top">Top of page</a>
+    <p><a href="#top">Top of page</a></p>
   </body>
 </html>
